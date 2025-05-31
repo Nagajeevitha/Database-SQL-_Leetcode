@@ -7,7 +7,7 @@
 **Question Description**:
 Table: Person
 
-+-------------+---------+
++-------------+---------+ 
 | Column Name | Type    |
 +-------------+---------+
 | personId    | int     |
