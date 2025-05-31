@@ -1,0 +1,3 @@
+SELECT emp1.name AS Employee
+FROM Employee AS emp1 INNER JOIN Employee AS emp2
+where emp1.managerID = emp2.id AND emp1.salary > emp2.salary;
